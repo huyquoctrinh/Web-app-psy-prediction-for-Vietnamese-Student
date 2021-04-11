@@ -12,7 +12,7 @@ It is slightly simplified implementation of Kim's [Convolutional Neural Networks
 With CNN train.py
 With Bert classify_text_with_bert.ipynb
 ## Evaluating
-Download model from
+Download model from https://drive.google.com/file/d/1mgIAVHMJTydz_9Omwm9pzqfNFwqMEf7J/view?usp=sharing
 ```bash
 ./eval.py --eval_train --checkpoint_dir="./runs/1459637919/checkpoints/"
 ```
