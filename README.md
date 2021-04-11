@@ -7,7 +7,7 @@ It is slightly simplified implementation of Kim's [Convolutional Neural Networks
 - Python 3
 - Tensorflow==2.4.1
 - Numpy
-
+- Flask
 ## Training
 With CNN train.py
 With Bert classify_text_with_bert.ipynb
