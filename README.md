@@ -26,3 +26,4 @@ WEB U.I: npm start
 
 - [Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1408.5882)
 - [A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1510.03820)
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding] (https://arxiv.org/abs/1810.04805)
